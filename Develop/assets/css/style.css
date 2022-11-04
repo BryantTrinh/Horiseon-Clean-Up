@@ -10,26 +10,28 @@ body {
 }
 
 /* Header style */
-.header {
+/* Removing . from header selectors */
+header {
     padding: 20 px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+/* Removing . from header selectors */
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
 /*Changed .header "div" to "nav" */
 
 
-.header nav {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -37,11 +39,11 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+header nav ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -106,7 +108,7 @@ main {
     color: #ffffff;
 }
 
-/* Benefits to the side */
+/* Benefits to the side, aside */
 
 .benefit h3 {
     margin-bottom: 10px;
@@ -120,7 +122,7 @@ main {
 }
 /* Class Service  */
 
-.service{
+.service {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;

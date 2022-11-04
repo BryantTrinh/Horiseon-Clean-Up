@@ -1,0 +1,65 @@
+[33mcommit e11e530e7c40d989ee3b8a4ebf67218852de3ad4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Bryant Trinh <trinhbryant@gmail.com>
+Date:   Thu Nov 3 01:57:34 2022 -0700
+
+    Changed class names
+
+[33mcommit c5fb4a03bf07b680f1899e684316d709efd2b1cd[m
+Author: Bryant Trinh <trinhbryant@gmail.com>
+Date:   Thu Nov 3 01:47:36 2022 -0700
+
+    First CSS file revision
+
+[33mcommit 7bf81b7f7241688005cd736e1c4cb11a41724176[m
+Author: Bryant Trinh <trinhbryant@gmail.com>
+Date:   Thu Nov 3 00:02:21 2022 -0700
+
+    First revision of index.html with comments
+
+[33mcommit 5ee2b00a8939eb640c4ff40b7aad08984df6fc0c[m
+Author: Bryant Trinh <trinhbryant@gmail.com>
+Date:   Wed Nov 2 22:15:41 2022 -0700
+
+    Cleaned up semantics and added comment
+
+[33mcommit a5d59694733e5b57316cd34d74d2d9bdd77a485f[m
+Author: Bryant Trinh <trinhbryant@gmail.com>
+Date:   Wed Nov 2 17:40:07 2022 -0700
+
+    cleaned up lines
+
+[33mcommit dbd20d631c15f44e866ec97b6b1c5b8f9da0bc17[m
+Author: Bryant Trinh <trinhbryant@gmail.com>
+Date:   Wed Nov 2 17:17:00 2022 -0700
+
+    main folder removed
+
+[33mcommit 91c7f4c67870defda9e10686a6717ef50e30161e[m
+Author: Bryant Trinh <trinhbryant@gmail.com>
+Date:   Wed Nov 2 15:47:05 2022 -0700
+
+    first commit
+
+[33mcommit 74c83f1bbbb78b33b9e9af200877e012775d5c98[m
+Author: Bryant Trinh <trinhbryant@gmail.com>
+Date:   Wed Nov 2 15:41:51 2022 -0700
+
+    first commit
+
+[33mcommit 3a3f0de1f4fd64ddfa9a9be7970976844adba2c4[m
+Author: Bryant Trinh <trinhbryant@gmail.com>
+Date:   Wed Nov 2 15:36:49 2022 -0700
+
+    Added files
+
+[33mcommit 314fb3b156c07b2d9bcd0f3c71c6293c9e87fc1a[m
+Author: Quinton Fults <quinton.fults.work@gmail.com>
+Date:   Sun Oct 30 18:19:22 2022 -0700
+
+    initial commit
+
+[33mcommit d69850de996105bf35442de4f3bb6087e8ae03e0[m
+Author: Administrator <admin@example.com>
+Date:   Thu May 5 13:26:02 2022 +0000
+
+    Initial commit
