@@ -1,3 +1,6 @@
+
+Title: 
+
 # <Horison-Clean-Up>
 
 ## Description
@@ -21,7 +24,7 @@ For the Horison's website clean up, I learned that that in the html code, there 
 Please run the index.html file in order to view the website.
 ## Usage
 
-Click on the following header options:
+Click on the following header options in the top right corner of the page:
 1. Search Engine Optimization
 2. Online Reputation Management
 3. Social Media Marketing
@@ -29,12 +32,10 @@ Click on the following header options:
 The action that proceeds will trigger your page to go directly to that respective section and its information.
 
 Instructions and examples for use. Included are screenshots of highlighted options that you can click on to read the information.
+    ![Search Engine Optimization highlighted location](assets/images/Search-Engine-Optimization-select.jpg)
+    ![Online Reputation Management highlighted location](assets/images/Online-Reputation-Management-select.jpg)
+    ![Social Media Marketing highlighted location](assets/images/Social-Media-Marketing-select.jpg)
 
-    ```md
-    ![Search Engine Optimization location](assets/images/Search-Engine-Optimization-select.jpg)
-    ![Online Reputation Management location](assets/images/Online-Reputation-Management-select.jpg)
-    ![Social Media Marketing location](assets/images/Social-Media-Marketing-select.jpg)
-    ```
 
 ## License
 
