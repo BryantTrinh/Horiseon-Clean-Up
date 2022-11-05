@@ -1,4 +1,3 @@
-/* Universal style */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -9,8 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header style */
-/* Removing . from header selectors */
 header {
     padding: 20 px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,7 +15,6 @@ header {
     color: #ffffff;
 }
 
-/* Removing . from header selectors */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -28,7 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/*Changed .header "div" to "nav" */
+
 
 
 header nav {
@@ -48,7 +44,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* Text Styles */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -58,7 +54,6 @@ p {
     font-size: 16px;
 }
 
-/* DIV Class Hero Background Image  */
 .hero {
     height: 800px;
     width: 100%;
@@ -67,7 +62,6 @@ p {
     background-size: cover;
     background-position: center;
 }
-
 
 .float-left {
     float: left;
@@ -78,11 +72,6 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-/* Removed .content, not found in Index.html */
-
-/* Main*/
-
 
 main {
     display: inline-block;
@@ -102,13 +91,11 @@ main {
     background-color: #2589bd;
 }
 
-/* Took out.benefit-lead/brand/cost. Changed to .benefit */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* Benefits to the side, aside */
 
 .benefit h3 {
     margin-bottom: 10px;
@@ -120,7 +107,6 @@ main {
     margin: 10px auto;
     max-width: 150px;
 }
-/* Class Service  */
 
 .service {
     margin-bottom: 20px;
@@ -131,21 +117,14 @@ main {
     color: #ffffff;
 }
 
-/* Changed to class .service, removed redundant lines */
 .service img {
     max-height: 200px;
 }
-
-/* Changed to class .service, removed redundant lines in h2 */
 
 .service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/* Footer Style */
-
-/* Removed . from footer */
 
 footer {
     padding: 30px;
